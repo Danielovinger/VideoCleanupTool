@@ -33,6 +33,7 @@ A simple Python Tkinter application that scans video files in a **single folder*
    - On Ubuntu/Debian: `sudo apt-get install ffmpeg`
 3. **Dependencies**:
    - Install Python dependencies:
+     ```
      pip install send2trash
      ```
 4. **Optional**: If you do not want to run Python directly, download the `.exe` from the [Releases section](#) (or from the repo) for Windows.
